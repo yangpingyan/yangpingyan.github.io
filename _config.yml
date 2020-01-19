@@ -6,9 +6,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: YangPingyan's blog ❤
-description: This blog is about data science
-github_username: YangPingyan
+title: YangPingyan's blog
+description: This blog is about data science ❤
+github_username: yangpingyan
 
 # Email and twitter are optional:
 email:
