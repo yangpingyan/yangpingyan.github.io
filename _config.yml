@@ -6,12 +6,12 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: YangPingyan's blog
-description: This blog is about data science ❤
+title: YangPingyan's blog ❤
+description: This blog is about data science
 github_username: YangPingyan
 
 # Email and twitter are optional:
-email: yangpingyan@gmail.com
+email:
 twitter_username: 
 
 # Set this to true to get LaTeX math equation support
